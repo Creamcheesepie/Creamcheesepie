@@ -1,4 +1,6 @@
-## Hi there 👋
+## 안녕하세요. 반갑습니다.
+### 강휘윤의 깃허브입니다.
+주로 사용하는 언어는 자바입니다. 최근 코틀린도 학습 중에 있습니다.
 
 <!--
 **Creamcheesepie/Creamcheesepie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
