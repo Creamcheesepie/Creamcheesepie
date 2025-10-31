@@ -1,6 +1,9 @@
 ## 안녕하세요. 반갑습니다.
 ### 강휘윤의 깃허브입니다.
-주로 사용하는 언어는 자바입니다. 최근 코틀린도 학습 중에 있습니다.
+- 주로 사용하는 언어는 자바입니다
+- 최근 코틀린도 학습 중에 있습니다
+- DFS, BFS가 아무리 해도 잘 안되어서 잘 될때까지 해보려고 합니다
+- 자바에서 제공하는 기본 라이브러리의 활용법에 대해서 익히고 있습니다
 
 <!--
 **Creamcheesepie/Creamcheesepie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
